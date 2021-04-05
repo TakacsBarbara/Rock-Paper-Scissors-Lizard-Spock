@@ -1,0 +1,10 @@
+1. sp
+2. pr
+3. rl
+4. lsp
+5. sps
+6. sl
+7. lp
+8. psp
+9. spr
+10. rs
