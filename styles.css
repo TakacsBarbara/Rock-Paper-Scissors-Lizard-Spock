@@ -90,6 +90,20 @@ img {
     font-weight: bold;
 }
 
+.rules {
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+}
+
+.rule {
+    margin-top: 20px;
+    text-align: left;
+    line-height: 1.5;
+    display: inline-block;
+    width: 200px;
+}
+
 .green-glow {
     border: 3px solid #4dcc4d;
     box-shadow: 0 0 10px #1a7e20;
